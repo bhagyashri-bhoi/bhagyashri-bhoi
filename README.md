@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Bhagyashri Bhoi 👋
 
-<!--
-**bhagyashri-bhoi/bhagyashri-bhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+💻 **Technical Skills**
+- Programming: Java, Python, C, C++
+- Web Development: HTML, Django, Flask
+- Database: SQL, MySQL
+- Tools: Git, GitHub, VS Code, Jupyter Notebook
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projects**
+- Phishing Website Detection using Machine Learning
+- More projects coming soon!
+
+🌱 **Currently Learning**
+- Machine Learning
+- Web Development
+
+📫 **Connect with me**
+- LinkedIn: https://linkedin.com/in/bhagyashri-bhoi-15a50b3ab
+
+
